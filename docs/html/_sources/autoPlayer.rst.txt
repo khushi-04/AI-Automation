@@ -1,0 +1,5 @@
+autoPlayer
+###########
+
+.. automodule:: hexathello.autoPlayer
+    :members: runHexathello_withAgents
