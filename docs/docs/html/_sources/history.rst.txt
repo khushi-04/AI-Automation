@@ -1,0 +1,5 @@
+History
+########
+
+.. automodule:: hexathello.history
+    :members: new_literalHistory, new_povHistory, povHistory_from_literalHistory, history_asInt, history_fromInt

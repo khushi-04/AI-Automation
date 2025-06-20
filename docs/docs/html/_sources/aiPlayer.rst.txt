@@ -1,0 +1,16 @@
+aiPlayers
+##########
+
+.. automodule:: hexathello.aiPlayers
+
+.. autoclass:: HexAgent
+    :members: getMove_fromBoardState
+
+.. autoclass:: KerasHexAgent
+    :members: chooseMove, getMove_fromBoardState, prep_training_history, train
+    
+.. autoclass:: GreedyHexAgent
+    
+
+
+
